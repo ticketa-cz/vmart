@@ -1,0 +1,26 @@
+@page { 
+	sheet-size: A4; 
+	margin: 7%;
+}
+body {
+	line-height: 1.4em;
+}
+p {
+	line-height: 1.4em;
+	width: 100%;
+}
+span {
+	line-height: 1.4em;
+	width: 100%;
+}
+.align_center {
+	text-align: center;
+	width: 100%;
+}
+.align_left {
+	text-align: left;
+}
+.align_right span{
+	text-align: right;
+	float: right;
+}

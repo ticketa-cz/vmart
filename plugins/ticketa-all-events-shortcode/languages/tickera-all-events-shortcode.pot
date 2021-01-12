@@ -1,0 +1,36 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tickera - All Events List Filtered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-27 09:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.5"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://tickera.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"List all events on any page or post with [all_events_list_filter] shortcode. "
+"List is sorted in the ascending order starting with the first upcoming event."
+" Also, past events are automatically removed from the list."
+msgstr ""
+
+#. Name of the plugin
+msgid "Tickera - All Events List Filtered"
+msgstr ""
+
+#. Author of the plugin
+msgid "Tickera.com"
+msgstr ""

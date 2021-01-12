@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	font-family: DejaVu Sans !important;
+	font-size: 10px;
+	color: #333;
+}
+.exportdiv {
+	padding: 0px;
+	width: 100%;
+}
+.exportlogo {
+	float: right;
+	margin-bottom: 10px;
+	height: 54px;
+	width: 150px;
+	background: url(vmartlogo.jpg);
+	display: block;
+}
+.exportdiv h3 {
+	clear: both;
+	text-align: center;
+	width: 100%;
+	font-size: 24px;
+	margin-bottom: 50px;
+	color: #09C;
+}
+.exporttable {
+	width: 100%;
+	margin-bottom: 20px;
+}
+.exporttable tr:nth-child(odd) {
+	background-color: #f2f2f2;
+}
+.exporttable tr td:nth-child(1) {
+	width: 20%;
+}
+.exporttable td {
+	padding: 5px;
+	font-family: 'roboto_condensedlight', Tahoma, Arial, sans-serif !important;
+}
+.salimg {
+	transform:  translateX(-50%) translateY(-50%);
+	width: 100%;
+	height: auto;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+.rotate {
+	transform:  translateX(-50%) translateY(-50%) rotate(-90deg);
+	height: 100%;
+	width: auto;
+}
+.page_break { 
+	page-break-before: always;
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.page_break_now { 
+	page-break-before: always;
+}
+.artisth3 {
+	margin-bottom: 10px;
+}
+.artist {
+	margin-bottom: 15px;
+}
+.artist td {
+	padding: 4px;
+	font-size: 9px;
+}

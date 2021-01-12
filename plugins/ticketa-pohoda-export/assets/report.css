@@ -1,0 +1,33 @@
+h3 {
+    background: #9bbe35;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 24px;
+	text-align: center;
+}
+h4 {
+    border: 1px solid #9bbe35;
+    padding: 10px 20px;
+    color: #9bbe35;
+    font-size: 20px;
+	text-align: center;
+}
+.output_table_info, .output_table, .exported_table, .commission_table, .summary_table {
+	width: 100%;
+	border-spacing: 0;
+	font-size: 13px;
+}
+.output_table_info td {
+	border: none;
+	padding: 3px 7px;
+}
+.output_table th, .exported_table th, .commission_table th, .summary_table th {
+	background: #9bbe35;
+	color: #fff;
+	padding: 7px;
+}
+.output_table td, .exported_table td, .commission_table td, .summary_table td {
+	padding: 7px;
+	border: none;
+	margin: 0;
+}
